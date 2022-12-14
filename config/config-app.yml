@@ -1,0 +1,12 @@
+app:
+  Version: 1.0.0
+  Mode: development
+  Port: 8080
+  Secret: HDbank
+
+mysql:
+  Host: 127.0.0.1
+  Port: 3307
+  User: root
+  Password: Abc123!
+  DBName: HDbank
